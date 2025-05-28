@@ -1,0 +1,26 @@
+{
+  "name": "cash-currency-converter",
+  "version": "1.0.0",
+  "description": "A NPM package to convert currency.",
+  "main": "index.js",
+  "type":"module",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prajjawal007/cash-currency-converter.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Prajjawal Agrawal",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/prajjawal007/cash-currency-converter/issues"
+  },
+  "homepage": "https://github.com/prajjawal007/cash-currency-converter#readme",
+  "dependencies": {
+    "@everapi/freecurrencyapi-js": "^1.0.1"
+  }
+}
